@@ -7,18 +7,4 @@
   <version>1.0.1</version>
   <name>player</name>
   <description>dependences lib</description>
-  <dependencies>
-    <dependency>
-      <groupId>com.kaolafm</groupId>
-      <artifactId>kradio-base-util</artifactId>
-      <version>1.0.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.kaolafm</groupId>
-      <artifactId>kradio-report-sdk</artifactId>
-      <version>1.0.1</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
 </project>
